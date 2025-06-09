@@ -1,5 +1,7 @@
 # Setup Instructions
 
+> **Note**: This repository is designed for iOS users with QuantumultX.
+
 ## Prerequisites
 
 1. **Generate and trust MitM certificate** in your "VPN & Device Management"
@@ -20,4 +22,5 @@
 - **Script**: `setBehaviorTrace.js` (from this repository)
 
 ## Security Configuration
-For security purposes, abnormal status reports (screen captures and screenshots sent to teachers) need to be intercepted locally. Add rejection rules for the three URLs using the same method described above. The URLs that need to be rejected in specific cases are detailed in QX.conf.
+
+For security purposes, abnormal status reports (screen captures and screenshots sent to teachers) need to be intercepted locally. Add rejection rules for the three domains using the same method described above.
