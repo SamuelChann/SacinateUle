@@ -1,6 +1,6 @@
 # Setup Instructions
 
-> **Note**: This repository is designed for iOS users with QuantumultX.
+> **Note**: This repository is designed for iOS users with QX.
 
 ## Prerequisites
 
